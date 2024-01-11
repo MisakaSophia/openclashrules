@@ -634,3 +634,6 @@ payload:
   - DOMAIN-SUFFIX,sharpdaily.tw
   - DOMAIN-SUFFIX,tomonews.net
   - DOMAIN-SUFFIX,twnextdigital.com
+  - DOMAIN-SUFFIX,iosapps.itunes.apple.com
+  - DOMAIN-KEYWORD,itunes
+  - DOMAIN-SUFFIX,init.itunes.apple.com
