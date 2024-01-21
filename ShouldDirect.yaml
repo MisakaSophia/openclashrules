@@ -6,6 +6,8 @@ payload:
   - IP-CIDR,198.18.0.1/16
   - DOMAIN-KEYWORD,cdn.data.fate-go.jp
   - DOMAIN-KEYWORD,alist.xiaoya.pro
+  - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-KEYWORD,dmhy
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,chdbits.co
