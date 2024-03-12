@@ -45,7 +45,6 @@ payload:
   - PROCESS-NAME,transmission-qt
   - PROCESS-NAME,uTorrent
   - PROCESS-NAME,WebTorrent
-  - PROCESS-NAME,aria2c
   - PROCESS-NAME,fdm
   - PROCESS-NAME,Folx
   - PROCESS-NAME,NetTransport
