@@ -6,8 +6,8 @@ payload:
   - IP-CIDR,198.18.0.1/16
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,gitlab
-  - DOMAIN-KEYWORD,bsky
   - DOMAIN-KEYWORD,cdn.data.fate-go.jp
+  - DOMAIN-KEYWORD,fate-go
   - DOMAIN-KEYWORD,alist.xiaoya.pro
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
