@@ -6,6 +6,7 @@ payload:
   - IP-CIDR,198.18.0.1/16
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,gitlab
+  - DOMAIN-KEYWORD,share.acgnx.se
   - DOMAIN-KEYWORD,cdn.data.fate-go.jp
   - DOMAIN-KEYWORD,fate-go
   - DOMAIN-KEYWORD,alist.xiaoya.pro
