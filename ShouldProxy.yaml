@@ -1,0 +1,15 @@
+# NAME: ShouldProxy
+# AUTHOR: Sophia
+payload:
+  - DOMAIN-SUFFIX,wqatom.lol
+  - DOMAIN-KEYWORD,wqatom.lol
+  - DOMAIN-SUFFIX,nexitcore.com
+  - DOMAIN-KEYWORD,nexitcore.com
+  - DOMAIN-SUFFIX,board.ouonet.work
+  - DOMAIN-KEYWORD,board.ouonet.work
+  - DOMAIN-KEYWORD,board.ouonet
+  - PROCESS-NAME,TV
+  - DOMAIN,kadokawa.com.tw
+  - DOMAIN-KEYWORD,kadokawa.com.tw
+  - DOMAIN-SUFFIX,kadokawa.com
+  - DOMAIN-KEYWORD,kadokawa
