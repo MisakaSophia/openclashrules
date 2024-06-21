@@ -5,6 +5,8 @@ payload:
   - DST-PORT,7892
   - IP-CIDR,198.18.0.1/16
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,camp.honorofkings.com
+  - DOMAIN-KEYWORD,honorofkings
   - DOMAIN-KEYWORD,gitlab
   - DOMAIN-KEYWORD,share.acgnx.se
   - DOMAIN-KEYWORD,cdn.data.fate-go.jp
