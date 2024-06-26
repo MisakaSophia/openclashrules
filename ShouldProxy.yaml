@@ -16,3 +16,7 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,wiki.metacubex.one
   - DOMAIN-KEYWORD,metacubex
+  - DOMAIN-KEYWORD,https://1.1.1.1/dns-query
+  - DOMAIN-KEYWORD,1.1.1.1
+  - DOMAIN-KEYWORD,https://8.8.8.8/dns-query
+  - DOMAIN-KEYWORD,8.8.8.8
