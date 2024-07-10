@@ -20,3 +20,5 @@ payload:
   - DOMAIN-KEYWORD,1.1.1.1
   - DOMAIN-KEYWORD,https://8.8.8.8/dns-query
   - DOMAIN-KEYWORD,8.8.8.8
+  - DOMAIN-KEYWORD,cdn.data.fate-go.jp
+  - DOMAIN-KEYWORD,fate-go
