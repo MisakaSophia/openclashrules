@@ -4,6 +4,9 @@ payload:
   - DST-PORT,7895
   - DST-PORT,7892
   - IP-CIDR,198.18.0.1/16
+  - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,time.windows.com
+  - DOMAIN-KEYWORD,time.nist.gov
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,camp.honorofkings.com
   - DOMAIN-KEYWORD,honorofkings
