@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,time.windows.com
   - DOMAIN-KEYWORD,time.nist.gov
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,hoyoverse
   - DOMAIN-KEYWORD,camp.honorofkings.com
   - DOMAIN-KEYWORD,honorofkings
   - DOMAIN-KEYWORD,gitlab
