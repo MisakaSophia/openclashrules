@@ -6,6 +6,8 @@ payload:
   - IP-CIDR,198.18.0.1/16
   - DOMAIN-KEYWORD,windows
   - DOMAIN-KEYWORD,nvidia
+  - DOMAIN-KEYWORD,sgameglobal
+  - DOMAIN-KEYWORD,vasdgame
   - DOMAIN-KEYWORD,time.windows.com
   - DOMAIN-KEYWORD,time.nist.gov
   - DOMAIN-KEYWORD,microsoft
