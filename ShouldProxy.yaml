@@ -2,6 +2,7 @@
 # AUTHOR: Sophia
 payload:
   - DOMAIN-SUFFIX,wqatom.lol
+  - DOMAIN-KEYWORD,hoyoverse
   - DOMAIN-KEYWORD,wqatom.lol
   - DOMAIN-SUFFIX,nexitcore.com
   - DOMAIN-KEYWORD,nexitcore.com
