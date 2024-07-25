@@ -5,6 +5,7 @@ payload:
   - DST-PORT,7892
   - IP-CIDR,198.18.0.1/16
   - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,apps.microsoft.com
   - DOMAIN-KEYWORD,nvidia
   - DOMAIN-KEYWORD,sgameglobal
   - DOMAIN-KEYWORD,vasdgame
