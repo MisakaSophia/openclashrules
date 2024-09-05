@@ -105,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,appletvapp.apple
   - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
   - DOMAIN-SUFFIX,audio.itunes.apple.com
+  - DOMAIN-SUFFIX,lanzv.com
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
   - DOMAIN-SUFFIX,hls.itunes.apple.com
