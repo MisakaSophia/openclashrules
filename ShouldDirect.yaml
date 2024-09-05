@@ -2,6 +2,8 @@
 # AUTHOR: Sophia
 payload:
   - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,bbs.steamtools.net
+  - DOMAIN-KEYWORD,steamdb.info
   - DOMAIN-KEYWORD,apps.microsoft.com
   - DOMAIN-KEYWORD,nvidia
   - DOMAIN-KEYWORD,ct.ghpym
