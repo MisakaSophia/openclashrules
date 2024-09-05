@@ -3,8 +3,6 @@
 payload:
   - DOMAIN-KEYWORD,windows
   - DOMAIN-KEYWORD,apps.microsoft.com
-  - DOMAIN-KEYWORD,down-load.lanrar.com
-  - DOMAIN-KEYWORD,down-load.lanrar.com
   - DOMAIN-KEYWORD,nvidia
   - DOMAIN-KEYWORD,ct.ghpym
   - DOMAIN-KEYWORD,sgameglobal
@@ -107,7 +105,6 @@ payload:
   - DOMAIN-SUFFIX,appletvapp.apple
   - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
   - DOMAIN-SUFFIX,audio.itunes.apple.com
-  - DOMAIN-SUFFIX,lanzv.com
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
   - DOMAIN-SUFFIX,hls.itunes.apple.com
