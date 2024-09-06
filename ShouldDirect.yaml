@@ -21,6 +21,8 @@ payload:
   - DOMAIN-KEYWORD,zenlesszonezero.com
   - DOMAIN-KEYWORD,dmhy.b168.net
   - DOMAIN-KEYWORD,alist.xiaoya.pro
+  - DOMAIN-KEYWORD,nexusmods
+  - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,bbs.steamtools.net
   - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,awesome-hd.me
