@@ -1,10 +1,6 @@
 # NAME: ShouldDirect
 # AUTHOR: Sophia
 payload:
-  - DOMAIN-KEYWORD,dl-a10b-
-  - DOMAIN-KEYWORD,api-drive.mypikpak.com
-  - DOMAIN-SUFFIX,dl-a10b-
-  - DOMAIN-SUFFIX,api-drive.mypikpak.com
   - DOMAIN-KEYWORD,windows
   - DOMAIN-KEYWORD,bbs.steamtools.net
   - DOMAIN-KEYWORD,steamdb.info
