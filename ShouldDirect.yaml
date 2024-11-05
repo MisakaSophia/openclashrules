@@ -2,6 +2,8 @@
 # AUTHOR: Sophia
 payload:
   - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,download.epicgames.com
+  - DOMAIN-SUFFIX,download.epicgames.com
   - DOMAIN-KEYWORD,updates.cdn-apple.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com
   - DOMAIN-KEYWORD,bbs.steamtools.net
