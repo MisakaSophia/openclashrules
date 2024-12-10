@@ -2,6 +2,8 @@
 # AUTHOR: Sophia
 payload:
   - DOMAIN-SUFFIX,wqatom.lol
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft
+  - DOMAIN-KEYWORD,copilot
   - DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
   - DOMAIN-KEYWORD,autopatchos.zenlesszonezero.com
   - DOMAIN-KEYWORD,hoyoverse
