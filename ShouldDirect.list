@@ -1,4 +1,6 @@
 DOMAIN-KEYWORD,dl-a10b-
+DOMAIN-KEYWORD,cdn.data.fate-go.jp
+DOMAIN-KEYWORD,fate-go
 DOMAIN-SUFFIX,dl-a10b-0014
 DOMAIN-SUFFIX,dl-a10b-0015
 DOMAIN-SUFFIX,dl-a10b-0016
@@ -49,6 +51,5 @@ DOMAIN-SUFFIX,dl-a10b-0886
 DOMAIN-SUFFIX,dl-a10b-0887
 DOMAIN-SUFFIX,dcdn.mypikpak.com
 DOMAIN-SUFFIX,shub.mypikpak.com
-DOMAIN-KEYWORD,cdn.data.fate-go.jp
-DOMAIN-KEYWORD,fate-go
+
 
