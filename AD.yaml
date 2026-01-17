@@ -5,3 +5,11 @@ payload:
     - DOMAIN-KEYWORD,mcdn.bilivideo.cn
     - DOMAIN-KEYWORD,szbdyd.com
     - DOMAIN-REGEX,cn-*.bilivideo.com
+    - DOMAIN-KEYWORD,access.mypikpak.com
+    - DOMAIN-SUFFIX,access.mypikpak.com
+    - DOMAIN-KEYWORD,access.mypikpak.net
+    - DOMAIN-SUFFIX,access.mypikpak.net
+    - DOMAIN-KEYWORD,access.pikpak.me
+    - DOMAIN-SUFFIX,access.pikpak.me
+    - DOMAIN-KEYWORD,access.pikpakdrive.com
+    - DOMAIN-SUFFIX,access.pikpakdrive.com
