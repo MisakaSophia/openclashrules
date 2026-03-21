@@ -23,6 +23,7 @@ payload:
   - DOMAIN,steambroadcast.akamaized.net
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamusercontent.com
 
   # --- [新增] Epic Games 商店与登录服务 (解决转圈与加载失败) ---
   - DOMAIN,launcher.epicgames.com
