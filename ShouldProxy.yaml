@@ -11,28 +11,6 @@ payload:
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
 
-  # --- [新增] Steam 社区与社交 (解决个人资料/创意工坊/好友加载) ---
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN,community.steam-api.com
-  - DOMAIN,community.cloudflare.steamstatic.com
-  - DOMAIN,steamuserimages-a.akamaihd.net
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN,steambroadcast.akamaized.net
-  - DOMAIN,steamcdn-a.akamaihd.net
-  - DOMAIN,steamstore-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamusercontent.com
-
-  # --- [新增] Epic Games 商店与登录服务 (解决转圈与加载失败) ---
-  - DOMAIN,launcher.epicgames.com
-  - DOMAIN,library.epicgames.com
-  - DOMAIN,store-tester.epicgames.com
-  - DOMAIN,catalog-public-service-prod06.ol.epicgames.com
-  - DOMAIN,entitlement-public-service-prod08.ol.epicgames.com
-  - DOMAIN,priceengine-public-service-prod08.ol.epicgames.com
-
   # --- [原始] Microsoft & Copilot AI 服务 ---
   - DOMAIN-SUFFIX,wqatom.lol
   - DOMAIN-KEYWORD,wqatom.lol
