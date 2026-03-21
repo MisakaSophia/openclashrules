@@ -5,67 +5,62 @@
 # =========================================================
 
 payload:
-  [
-    # --- [新增] Apple News 专项 (解决大陆环境下 App 无法连接) ---
-    "DOMAIN-SUFFIX,apple.news",
-    "DOMAIN,news-client.apple.com",
-    "DOMAIN,news-edge.apple.com",
-    "DOMAIN,news-events.apple.com",
+  # --- [新增] Apple News 专项 (解决大陆环境下 App 无法连接) ---
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
 
-    # --- [新增] Steam 社区与社交 (解决个人资料/创意工坊/好友加载) ---
-    "DOMAIN-SUFFIX,steamcommunity.com",
-    "DOMAIN-SUFFIX,steam-chat.com",
-    "DOMAIN,community.steam-api.com",
-    "DOMAIN,community.cloudflare.steamstatic.com",
-    "DOMAIN,steamuserimages-a.akamaihd.net",
+  # --- [新增] Steam 社区与社交 (解决个人资料/创意工坊/好友加载) ---
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN,community.steam-api.com
+  - DOMAIN,community.cloudflare.steamstatic.com
+  - DOMAIN,steamuserimages-a.akamaihd.net
 
-    # --- [新增] Epic Games 商店与登录服务 (解决转圈与加载失败) ---
-    "DOMAIN,launcher.epicgames.com",
-    "DOMAIN,library.epicgames.com",
-    "DOMAIN,store-tester.epicgames.com",
-    "DOMAIN,catalog-public-service-prod06.ol.epicgames.com",
-    "DOMAIN,entitlement-public-service-prod08.ol.epicgames.com",
-    "DOMAIN,priceengine-public-service-prod08.ol.epicgames.com",
+  # --- [新增] Epic Games 商店与登录服务 (解决转圈与加载失败) ---
+  - DOMAIN,launcher.epicgames.com
+  - DOMAIN,library.epicgames.com
+  - DOMAIN,store-tester.epicgames.com
+  - DOMAIN,catalog-public-service-prod06.ol.epicgames.com
+  - DOMAIN,entitlement-public-service-prod08.ol.epicgames.com
+  - DOMAIN,priceengine-public-service-prod08.ol.epicgames.com
 
-    # --- [原始] Microsoft & Copilot AI 服务 ---
-    "DOMAIN-SUFFIX,wqatom.lol",
-    "DOMAIN-KEYWORD,wqatom.lol",
-    "DOMAIN-SUFFIX,copilot.cloud.microsoft",
-    "DOMAIN-KEYWORD,copilot",
+  # --- [原始] Microsoft & Copilot AI 服务 ---
+  - DOMAIN-SUFFIX,wqatom.lol
+  - DOMAIN-KEYWORD,wqatom.lol
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft
+  - DOMAIN-KEYWORD,copilot
 
-    # --- [原始] Hoyoverse & 绝区零 (注: 代理会影响下载速度，请根据节点带宽调整) ---
-    "DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com",
-    "DOMAIN-KEYWORD,autopatchos.zenlesszonezero.com",
-    "DOMAIN-KEYWORD,hoyoverse",
+  # --- [原始] Hoyoverse & 绝区零 ---
+  - DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
+  - DOMAIN-KEYWORD,autopatchos.zenlesszonezero.com
+  - DOMAIN-KEYWORD,hoyoverse
 
-    # --- [原始] 基础架构与机场服务 (Nexitally/Ouonet) ---
-    "DOMAIN-SUFFIX,nexitcore.com",
-    "DOMAIN-KEYWORD,nexitcore.com",
-    "DOMAIN-SUFFIX,board.ouonet.work",
-    "DOMAIN-KEYWORD,board.ouonet.work",
-    "DOMAIN-KEYWORD,board.ouonet",
+  # --- [原始] 基础架构与机场服务 ---
+  - DOMAIN-SUFFIX,nexitcore.com
+  - DOMAIN-KEYWORD,nexitcore.com
+  - DOMAIN-SUFFIX,board.ouonet.work
+  - DOMAIN-KEYWORD,board.ouonet.work
+  - DOMAIN-KEYWORD,board.ouonet
 
-    # --- [原始] 系统进程 (仅对部分客户端生效) ---
-    "PROCESS-NAME,TV",
+  # --- [原始] 角川出版 (Kadokawa) ---
+  - DOMAIN,kadokawa.com.tw
+  - DOMAIN-KEYWORD,kadokawa.com.tw
+  - DOMAIN-SUFFIX,kadokawa.com
+  - DOMAIN-KEYWORD,kadokawa
 
-    # --- [原始] 角川出版 (Kadokawa) ---
-    "DOMAIN,kadokawa.com.tw",
-    "DOMAIN-KEYWORD,kadokawa.com.tw",
-    "DOMAIN-SUFFIX,kadokawa.com",
-    "DOMAIN-KEYWORD,kadokawa",
+  # --- [原始] 开发与文档 ---
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,wiki.metacubex.one
+  - DOMAIN-KEYWORD,metacubex
 
-    # --- [原始] 开发与文档 (GitHub/MetaCubeX) ---
-    "DOMAIN-KEYWORD,github",
-    "DOMAIN-KEYWORD,wiki.metacubex.one",
-    "DOMAIN-KEYWORD,metacubex",
+  # --- [修正] DNS 基础设施 ---
+  - DOMAIN,dns.cloudflare.com
+  - DOMAIN,dns.google
+  - DOMAIN-KEYWORD,1.1.1.1
+  - DOMAIN-KEYWORD,8.8.8.8
 
-    # --- [修正] DNS 基础设施 (已移除原始非法 https 路径，改为纯净匹配) ---
-    "DOMAIN,dns.cloudflare.com",
-    "DOMAIN,dns.google",
-    "DOMAIN-KEYWORD,1.1.1.1",
-    "DOMAIN-KEYWORD,8.8.8.8",
-
-    # --- [原始] NVIDIA API 接口 ---
-    "DOMAIN-KEYWORD,integrate.api.nvidia.com",
-    "DOMAIN-SUFFIX,integrate.api.nvidia.com"
-  ]
+  # --- [原始] NVIDIA API 接口 ---
+  - DOMAIN-KEYWORD,integrate.api.nvidia.com
+  - DOMAIN-SUFFIX,integrate.api.nvidia.com
