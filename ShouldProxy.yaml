@@ -17,6 +17,7 @@ payload:
   - DOMAIN,community.steam-api.com
   - DOMAIN,community.cloudflare.steamstatic.com
   - DOMAIN,steamuserimages-a.akamaihd.net
+  - DOMAIN-SUFFIX,steampowered.com
 
   # --- [新增] Epic Games 商店与登录服务 (解决转圈与加载失败) ---
   - DOMAIN,launcher.epicgames.com
