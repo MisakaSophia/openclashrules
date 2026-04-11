@@ -1,20 +1,15 @@
-DOMAIN-KEYWORD,cdn.data.fate-go.jp
+# --- 关键词匹配 (模糊捕获) ---
 DOMAIN-KEYWORD,fate-go
-DOMAIN-KEYWORD,beyond.hg-cdn.com
-DOMAIN-KEYWORD,download.amd.com
-DOMAIN-KEYWORD,amd.com
 DOMAIN-KEYWORD,amd
-DOMAIN-KEYWORD,tyo3.steamcontent.com
-DOMAIN-KEYWORD,search.lmstudio.ai
-DOMAIN-KEYWORD,lmstudio.ai
-DOMAIN-KEYWORD,download.sgameglobal.com
 DOMAIN-KEYWORD,sdu
-DOMAIN-KEYWORD,cas-bridge.xethub.hf.co
-DOMAIN-SUFFIX,download.sgameglobal.com
-DOMAIN-SUFFIX,download.amd.com
+
+# --- 后缀匹配 (精确直连) ---
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,sgameglobal.com
 DOMAIN-SUFFIX,amd.com
-DOMAIN-SUFFIX,search.lmstudio.ai
 DOMAIN-SUFFIX,lmstudio.ai
-DOMAIN-SUFFIX,beyond.hg-cdn.com
+DOMAIN-SUFFIX,hg-cdn.com
 DOMAIN-SUFFIX,sdu.us.ci
-DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
+DOMAIN-SUFFIX,xethub.hf.co
+DOMAIN-SUFFIX,misakamana.dpdns.org
+DOMAIN-SUFFIX,lishunsheng.dpdns.org
