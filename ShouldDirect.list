@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,fate-go
 DOMAIN-KEYWORD,amd
 DOMAIN-KEYWORD,sdu
+DOMAIN-KEYWORD,webofscience
 
 # --- 后缀匹配 (精确直连) ---
 DOMAIN-SUFFIX,steamcontent.com
@@ -13,3 +14,6 @@ DOMAIN-SUFFIX,sdu.us.ci
 DOMAIN-SUFFIX,xethub.hf.co
 DOMAIN-SUFFIX,misakamana.dpdns.org
 DOMAIN-SUFFIX,lishunsheng.dpdns.org
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,clarivate.com
