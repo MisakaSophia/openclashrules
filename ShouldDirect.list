@@ -1,9 +1,7 @@
-# 域名关键字匹配
 DOMAIN-KEYWORD,fate-go
 DOMAIN-KEYWORD,amd
 DOMAIN-KEYWORD,sdu
 DOMAIN-KEYWORD,webofscience
-# 域名后缀匹配
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,sgameglobal.com
 DOMAIN-SUFFIX,amd.com
@@ -16,7 +14,6 @@ DOMAIN-SUFFIX,lishunsheng.dpdns.org
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,clarivate.com
-# IP 段匹配 (必须添加 IP-CIDR 前缀)
 IP-CIDR,17.0.0.0/8
 IP-CIDR,63.92.224.0/19
 IP-CIDR,65.199.22.0/23
