@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,perfectworld.com
+DOMAIN-SUFFIX,perfectworldgames.com
 IP-CIDR,17.0.0.0/8
 IP-CIDR,63.92.224.0/19
 IP-CIDR,65.199.22.0/23
