@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,sdu
 DOMAIN-KEYWORD,webofscience
 DOMAIN-KEYWORD,perfectworld
 DOMAIN-KEYWORD,nte
+DOMAIN-KEYWORD,ntecdn
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,sgameglobal.com
 DOMAIN-SUFFIX,amd.com
@@ -18,6 +19,8 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,perfectworld.com
 DOMAIN-SUFFIX,perfectworldgames.com
+DOMAIN-SUFFIX,ntecdn1.perfectworld.com
+DOMAIN-SUFFIX,ntecdn2.perfectworld.com
 IP-CIDR,17.0.0.0/8
 IP-CIDR,63.92.224.0/19
 IP-CIDR,65.199.22.0/23
