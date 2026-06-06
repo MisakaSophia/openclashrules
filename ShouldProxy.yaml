@@ -49,3 +49,6 @@ payload:
   # --- [原始] NVIDIA API 接口 ---
   - DOMAIN-KEYWORD,integrate.api.nvidia.com
   - DOMAIN-SUFFIX,integrate.api.nvidia.com
+  
+  # --- [新增] Luckypool 矿池服务 ---
+  - DOMAIN-SUFFIX,luckypool.io
