@@ -52,3 +52,9 @@ payload:
   
   # --- [新增] Luckypool 矿池服务 ---
   - DOMAIN-SUFFIX,luckypool.io
+  - IP-CIDR,51.79.178.48/32
+  - IP-CIDR,51.79.178.22/32
+  - IP-CIDR,51.222.248.141/32
+  - IP-CIDR,167.114.210.225/32
+  - IP-CIDR,178.33.123.26/32
+  - IP-CIDR,51.178.73.238/32
