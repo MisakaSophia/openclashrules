@@ -8,16 +8,6 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,sgameglobal.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,lmstudio.ai
-DOMAIN-SUFFIX,hg-cdn.com
-DOMAIN-SUFFIX,sdu.us.ci
-DOMAIN-SUFFIX,misakamana.dpdns.org
-DOMAIN-SUFFIX,lishunsheng.dpdns.org
-DOMAIN-SUFFIX,lishunsheng.ccwu.cc
-DOMAIN-SUFFIX,misakamana.cc.cd
-DOMAIN-SUFFIX,misakamana.ccwu.cc
-DOMAIN-SUFFIX,misakamana.eu.cc
-DOMAIN-SUFFIX,misakamana.us.ci
-DOMAIN-SUFFIX,ayaseaisa.dpdns.org
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,clarivate.com
@@ -25,7 +15,6 @@ DOMAIN-SUFFIX,perfectworld.com
 DOMAIN-SUFFIX,perfectworldgames.com
 DOMAIN-SUFFIX,ntecdn1.perfectworld.com
 DOMAIN-SUFFIX,ntecdn2.perfectworld.com
-DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nxonearth.com
 IP-CIDR,17.0.0.0/8
 IP-CIDR,63.92.224.0/19
