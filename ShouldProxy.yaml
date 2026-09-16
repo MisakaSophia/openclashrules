@@ -49,7 +49,7 @@ payload:
   # --- [原始] NVIDIA API 接口 ---
   - DOMAIN-KEYWORD,integrate.api.nvidia.com
   - DOMAIN-SUFFIX,integrate.api.nvidia.com
-  
+
   # --- [新增] Luckypool 矿池服务 ---
   - DOMAIN-SUFFIX,luckypool.io
   - DOMAIN,pearl-eu1.luckypool.io
@@ -70,3 +70,14 @@ payload:
   - IP-CIDR,167.114.210.225/32
   - IP-CIDR,178.33.123.26/32
   - IP-CIDR,51.178.73.238/32
+
+  # --- 自定义/其他补充项 ---
+  - DOMAIN-KEYWORD,hg-cdn.com
+  - DOMAIN-SUFFIX,misakamana.dpdns.org
+  - DOMAIN-SUFFIX,lishunsheng.dpdns.org
+  - DOMAIN-SUFFIX,lishunsheng.ccwu.cc
+  - DOMAIN-SUFFIX,misakamana.cc.cd
+  - DOMAIN-SUFFIX,misakamana.ccwu.cc
+  - DOMAIN-SUFFIX,misakamana.eu.cc
+  - DOMAIN-SUFFIX,misakamana.us.ci
+  - DOMAIN-SUFFIX,ayaseaisa.dpdns.org
