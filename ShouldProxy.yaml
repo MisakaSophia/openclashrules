@@ -73,14 +73,5 @@ payload:
 
   # --- 自定义/其他补充项 ---
   - DOMAIN-KEYWORD,hg-cdn.com
-  - DOMAIN-SUFFIX,sdu.us.ci
-  - DOMAIN-SUFFIX,misakamana.dpdns.org
-  - DOMAIN-SUFFIX,lishunsheng.dpdns.org
-  - DOMAIN-SUFFIX,lishunsheng.ccwu.cc
-  - DOMAIN-SUFFIX,misakamana.cc.cd
-  - DOMAIN-SUFFIX,misakamana.ccwu.cc
-  - DOMAIN-SUFFIX,misakamana.eu.cc
-  - DOMAIN-SUFFIX,misakamana.us.ci
-  - DOMAIN-SUFFIX,ayaseaisa.dpdns.org
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,huggingface.co
